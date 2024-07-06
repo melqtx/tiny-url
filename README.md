@@ -5,3 +5,5 @@ so i thought im going make a cli based url shortner (@vbhvml told me oh its a ch
 for now it is a simmpl web based url shortner uing tinyurl api.
 just trying to get the frontend do some work. thx for reading.
 
+here is the link
+https://smolar-url.vercel.app/
